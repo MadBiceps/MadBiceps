@@ -1,9 +1,6 @@
 ### :wave: Hi there 
-I'm currently working on a project management platform :clipboard: and on my personal webpage (visit me again soon then maybe it has new informations)
 
 :office_worker: : Full-Stack Webdeveloper @ Bosch Manufacturing Solutions
-
-:dart: : Improve current skills & learn new 
 
 :cityscape: : Stuttgart / Heilbronn 
 
