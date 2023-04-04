@@ -2,7 +2,7 @@
 
 :office_worker: : Full-Stack Webdeveloper @ Bosch Manufacturing Solutions
 
-:cityscape: : Stuttgart / Heilbronn 
+:cityscape: : Suzhou, China
 
 ### My GitHub Stats
 
