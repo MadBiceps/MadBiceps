@@ -1,6 +1,6 @@
 ### :wave: Hi there 
 
-:office_worker: : Full-Stack Webdeveloper @ Bosch Manufacturing Solutions
+:office_worker: : Lead SW Engineer @ Bosch Manufacturing Solutions
 
 :cityscape: : Suzhou, China
 
