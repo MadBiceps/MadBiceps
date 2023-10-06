@@ -1,6 +1,6 @@
 ### :wave: Hi there 
 
-:office_worker: : Lead SW Engineer @ Bosch Manufacturing Solutions
+:office_worker: : Lead SW Engineer
 
 :cityscape: : Suzhou, China
 
